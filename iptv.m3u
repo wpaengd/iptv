@@ -1,0 +1,97 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1综合(1080i)
+http://10.10.10.60:4022/udp/225.1.4.73:1102
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2财经(1080i)
+http://10.10.10.60:4022/udp/225.1.4.74:1103
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3综艺(1080i)
+http://10.10.10.60:4022/udp/225.1.4.158:1194
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4中文国际(1080i)
+http://10.10.10.60:4022/udp/225.1.5.30:1333
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV5体育
+http://10.10.10.60:4022/udp/225.1.4.159:1195
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV6电影(1080i)
+http://10.10.10.60:4022/udp/225.1.4.160:1196
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV7国防军事(1080i)
+http://10.10.10.60:4022/udp/225.1.4.76:1105
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV8电视剧(1080i)
+http://10.10.10.60:4022/udp/225.1.4.161:1197
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV9记录(1080p)
+http://10.10.10.60:4022/udp/225.1.4.77:1106
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV10科教(1080i)
+http://10.10.10.60:4022/udp/225.1.4.78:1107
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV11戏曲(1080i)
+http://10.10.10.60:4022/udp/225.1.4.215:1268
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV12社会与法(1080i)
+http://10.10.10.60:4022/udp/225.1.4.79:1108
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13新闻(1080i)
+http://10.10.10.60:4022/udp/225.1.4.113:1293
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV14少儿(1080i)
+http://10.10.10.60:4022/udp/225.1.4.80:1109
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15音乐(1080i)
+http://10.10.10.60:4022/udp/225.1.4.216:1269
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16奥林匹克(1080i)
+http://10.10.10.60:4022/udp/225.1.5.46:1356
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17农业农村(1080i)
+http://10.10.10.60:4022/udp/225.1.4.226:2506
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+体育赛事(1080i)
+http://10.10.10.60:4022/udp/225.1.4.75:1104
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4中文国际欧洲(1080i)
+http://10.10.10.60:4022/udp/225.1.5.31:1342
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4中文国际美洲(1080i)
+http://10.10.10.60:4022/udp/225.1.5.32:1343
+
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南4K.png" group-title="本地",HNTV1河南卫视4K(2160p)
+http://10.10.10.60:4022/udp/225.1.4.254:1300
+#EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="本地",HNTV2都市频道(1080i)
+http://10.10.10.60:4022/udp/225.1.4.52:1081
+#EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://live.fanmingming.com/tv/河南民生.png" group-title="本地",HNTV3民生频道(1080i)
+http://10.10.10.60:4022/udp/225.1.4.53:1082
+#EXTINF:-1 tvg-id="河南法治" tvg-name="河南法治" tvg-logo="https://live.fanmingming.com/tv/河南法治.png" group-title="本地",HNTV4法治频道(1080i)
+http://10.10.10.60:4022/udp/225.1.4.54:1083
+#EXTINF:-1 tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://live.fanmingming.com/tv/河南电视剧.png" group-title="本地",HNTV5电视剧频道(1080i)
+http://10.10.10.60:4022/udp/225.1.4.55:1084
+#EXTINF:-1 tvg-id="河南新闻" tvg-name="河南新闻" tvg-logo="https://live.fanmingming.com/tv/河南新闻.png" group-title="本地",HNTV6新闻频道(1080i)
+http://10.10.10.60:4022/udp/225.1.4.56:1085
+#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://live.fanmingming.com/tv/河南公共.png" group-title="本地",HNTV8公共频道(1080i)
+http://10.10.10.60:4022/udp/225.1.4.58:1087
+#EXTINF:-1 tvg-id="河南新农村" tvg-name="新农村" tvg-logo="https://live.fanmingming.com/tv/河南乡村.png" group-title="本地",HNTV9乡村频道(1080i)
+http://10.10.10.60:4022/udp/225.1.4.120:1149
+#EXTINF:-1 tvg-id="河南国际" tvg-name="河南国际" tvg-logo="https://live.fanmingming.com/tv/河南国际.png" group-title="本地",HNTV10河南国际(1080i)
+http://10.10.10.60:4022/udp/225.1.4.102:1131
+#EXTINF:-1 tvg-id="郑州新闻" tvg-name="郑州新闻" tvg-logo="ZZTV1新闻综合.png" group-title="本地",ZZTV1新闻综合(1080i)
+http://10.10.10.60:4022/udp/225.1.4.140:1176
+#EXTINF:-1 tvg-id="郑州商都" tvg-name="郑州商都" tvg-logo="ZZTV2商都频道.png" group-title="本地",ZZTV2商都频道(1080i)
+http://10.10.10.60:4022/udp/225.1.4.141:1177
+#EXTINF:-1 tvg-id="郑州文体" tvg-name="郑州文体" tvg-logo="ZZTV3文体旅游.png" group-title="本地",ZZTV3文体旅游(1080i)
+http://10.10.10.60:4022/udp/225.1.4.142:1178
+#EXTINF:-1 tvg-id="郑州戏曲" tvg-name="郑州戏曲" tvg-logo="ZZTV4影视戏曲.png" group-title="本地",ZZTV4影视戏曲(576i)
+http://10.10.10.60:4022/udp/225.1.4.146:1182
+#EXTINF:-1 tvg-id="郑州妇女" tvg-name="郑州妇女" tvg-logo="ZZTV5妇女儿童.png" group-title="本地",ZZTV5妇女儿童(1080i)
+http://10.10.10.60:4022/udp/225.1.4.147:1183
+#EXTINF:-1 tvg-id="郑州生活" tvg-name="郑州生活" tvg-logo="ZZTV6都市生活.png" group-title="本地",ZZTV6都市生活(1080i)
+http://10.10.10.60:4022/udp/225.1.4.149:1185
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="其他",凤凰中文
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="其他",凤凰资讯
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="其他",求索记录
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="其他",求索动物
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="其他",求索科学
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="其他",求索科学
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="其他",CHC高清电影(1080i)
+http://10.10.10.60:4022/udp/225.1.4.207:1260
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="其他",CHC动作电影(1080i)
+http://10.10.10.60:4022/udp/225.1.4.208:1261
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="其他",CHC家庭影院(1080i)
+http://10.10.10.60:4022/udp/225.1.4.209:1262
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="其他",CETV1中国教育(1080p)
+http://10.10.10.60:4022/udp/225.1.4.173:1712
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="其他",上海纪实人文(1080i)
+http://10.10.10.60:4022/udp/225.1.4.170:1222
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="其他",湖南金鹰纪实(1080p)
+http://10.10.10.60:4022/udp/225.1.4.172:1711
