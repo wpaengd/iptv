@@ -157,3 +157,6 @@ http://10.10.10.60:4022/udp/225.1.4.173:1712
 http://10.10.10.60:4022/udp/225.1.4.170:1222
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="其他",湖南金鹰纪实(1080p)
 http://10.10.10.60:4022/udp/225.1.4.172:1711
+
+#EXTINF:-1 tvg-logo="https://tv-1.iill.top/LOGO/30&douyu&logo" group-title="•斗鱼「游戏」",DOTA2赛事直播
+https://live.iill.top/douyu/30
