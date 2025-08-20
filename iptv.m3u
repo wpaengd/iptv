@@ -158,5 +158,5 @@ http://10.10.10.60:4022/udp/225.1.4.170:1222
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="其他",湖南金鹰纪实(1080p)
 http://10.10.10.60:4022/udp/225.1.4.172:1711
 
-#EXTINF:-1 tvg-id="Dota2赛事直播" tvg-name="Dota2赛事直播" tvg-logo="https://tv-1.iill.top/LOGO/310112&huya&logo" group-title="其他",DOTA2赛事直播
+#EXTINF:-1 tvg-id="Dota2赛事直播" tvg-name="斗鱼-Sdn" tvg-logo="https://tv-1.iill.top/LOGO/310112&huya&logo" group-title="直播",斗鱼-Sdn
 https://live.iill.top/huya/310112
