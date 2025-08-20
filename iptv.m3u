@@ -140,9 +140,7 @@ http://10.10.10.60:4022/udp/225.1.4.95:1124
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",新疆兵团卫视(576p)
 http://10.10.10.60:4022/udp/225.1.4.97:1126
 
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="其他",凤凰中文
-http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="其他",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="其他",凤凰资讯(YouTube)
 https://live.iill.top/youtube/@phoenixtvhk
 
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="其他",CHC高清电影(1080i)
@@ -153,10 +151,11 @@ http://10.10.10.60:4022/udp/225.1.4.208:1261
 http://10.10.10.60:4022/udp/225.1.4.209:1262
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="其他",CETV1中国教育(1080p)
 http://10.10.10.60:4022/udp/225.1.4.173:1712
-#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="其他",上海纪实人文(1080i)
-http://10.10.10.60:4022/udp/225.1.4.170:1222
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="其他",湖南金鹰纪实(1080p)
 http://10.10.10.60:4022/udp/225.1.4.172:1711
 
-#EXTINF:-1 tvg-id="Dota2赛事直播" tvg-name="斗鱼-Sdn" tvg-logo="https://tv-1.iill.top/LOGO/310112&huya&logo" group-title="直播",斗鱼-Sdn
+#EXTINF:-1 tvg-id="地理" tvg-name="地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="其他",地理(1080p)
+http://10.10.10.60:4022/udp/225.1.4.183:1232
+
+#EXTINF:-1 tvg-id="斗鱼-Sdn" tvg-name="斗鱼-Sdn" tvg-logo="https://tv-1.iill.top/LOGO/310112&huya&logo" group-title="直播",斗鱼-Sdn
 https://live.iill.top/huya/310112
