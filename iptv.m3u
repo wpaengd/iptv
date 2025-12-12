@@ -140,9 +140,6 @@ http://10.10.10.60:4022/udp/225.1.4.95:1124
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",新疆兵团卫视(576p)
 http://10.10.10.60:4022/udp/225.1.4.97:1126
 
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="其他",凤凰资讯(YouTube)
-https://live.iill.top/youtube/@phoenixtvhk
-
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="其他",CHC高清电影(1080i)
 http://10.10.10.60:4022/udp/225.1.4.207:1260
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="其他",CHC动作电影(1080i)
