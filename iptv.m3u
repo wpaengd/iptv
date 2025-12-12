@@ -159,3 +159,5 @@ http://10.10.10.60:4022/udp/225.1.4.183:1232
 
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/41127571773&douyin&logo" group-title="•抖音「游戏」",dota2璨璨
 https://live.iill.top/douyin/41127571773
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/575668436&douyin&logo" group-title="•抖音「游戏」",78Dota2
+https://live.iill.top/douyin/575668436
