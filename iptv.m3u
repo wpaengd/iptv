@@ -157,5 +157,5 @@ http://10.10.10.60:4022/udp/225.1.4.172:1711
 #EXTINF:-1 tvg-id="地理" tvg-name="地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="其他",地理(1080p)
 http://10.10.10.60:4022/udp/225.1.4.183:1232
 
-#EXTINF:-1 tvg-id="斗鱼-Sdn" tvg-name="斗鱼-Sdn" tvg-logo="https://tv-1.iill.top/LOGO/310112&huya&logo" group-title="直播",斗鱼-Sdn
-https://live.iill.top/huya/310112
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/41127571773&douyin&logo" group-title="•抖音「游戏」",dota2璨璨
+https://live.iill.top/douyin/41127571773
