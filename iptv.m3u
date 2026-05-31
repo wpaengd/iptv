@@ -35,6 +35,8 @@ http://10.10.10.60:4022/udp/225.1.5.46:1356
 http://10.10.10.60:4022/udp/225.1.4.226:2506
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+体育赛事(1080i)
 http://10.10.10.60:4022/udp/225.1.4.75:1104
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV4K(2160p)
+http://10.10.10.60:4022/udp/225.1.5.65:1375
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视",CCTV4中文国际欧洲(1080i)
 http://10.10.10.60:4022/udp/225.1.5.31:1342
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视",CCTV4中文国际美洲(1080i)
@@ -71,26 +73,30 @@ http://10.10.10.60:4022/udp/225.1.4.147:1183
 #EXTINF:-1 tvg-id="郑州生活" tvg-name="郑州生活" tvg-logo="ZZTV6都市生活.png" group-title="本地",ZZTV6都市生活(1080i)
 http://10.10.10.60:4022/udp/225.1.4.149:1185
 
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视(1080i)
-http://10.10.10.60:4022/udp/225.1.4.81:1110
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视(1080i)
-http://10.10.10.60:4022/udp/225.1.4.82:1111
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视(1080i)
-http://10.10.10.60:4022/udp/225.1.4.83:1112
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视(1080i)
-http://10.10.10.60:4022/udp/225.1.4.84:1113
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视(1080i)
-http://10.10.10.60:4022/udp/225.1.4.85:1114
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视4K
+http://10.10.10.60:4022/udp/225.1.5.67:1377
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视4K
+http://10.10.10.60:4022/udp/225.1.5.70:1380
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视4K
+http://10.10.10.60:4022/udp/225.1.5.71:1381
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视4K
+http://10.10.10.60:4022/udp/225.1.5.72:1382
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视4K
+http://10.10.10.60:4022/udp/225.1.5.73:1383
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视4K
+http://10.10.10.60:4022/udp/225.1.5.76:1386
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视4K
+http://10.10.10.60:4022/udp/225.1.5.75:1385
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视4K
+http://10.10.10.60:4022/udp/225.1.5.68:1378
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视4K
+http://10.10.10.60:4022/udp/225.1.5.69:1379
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视(1080p)
 http://10.10.10.60:4022/udp/225.1.4.86:1115
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视(1080i)
-http://10.10.10.60:4022/udp/225.1.4.88:1117
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视(1080p)
 http://10.10.10.60:4022/udp/225.1.4.87:1116
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视(1080p)
 http://10.10.10.60:4022/udp/225.1.4.89:1118
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视(1080i)
-http://10.10.10.60:4022/udp/225.1.4.90:1119
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视(1080i)
 http://10.10.10.60:4022/udp/225.1.4.91:1120
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视(1080p)
@@ -105,8 +111,6 @@ http://10.10.10.60:4022/udp/225.1.4.151:1306
 http://10.10.10.60:4022/udp/225.1.4.152:1307
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视(1080i)
 http://10.10.10.60:4022/udp/225.1.4.157:1308
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视(1080i)
-http://10.10.10.60:4022/udp/225.1.4.166:1207
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视(1080i)
 http://10.10.10.60:4022/udp/225.1.4.167:1208
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视(1080i)
